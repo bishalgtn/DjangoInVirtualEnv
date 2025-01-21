@@ -1,0 +1,1 @@
+Django in virtual environment
